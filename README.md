@@ -1,5 +1,5 @@
 # chat-app
-Created a chat application using React.js and chatengine.io
+Created a chat application using React.js and Firebase
 
 ## To run:  
 npm start run
